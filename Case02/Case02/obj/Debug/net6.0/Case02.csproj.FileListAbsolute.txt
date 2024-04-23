@@ -1,0 +1,15 @@
+F:\csharp\Cases\Case02\Case02\bin\Debug\net6.0\Case02.exe
+F:\csharp\Cases\Case02\Case02\bin\Debug\net6.0\Case02.deps.json
+F:\csharp\Cases\Case02\Case02\bin\Debug\net6.0\Case02.runtimeconfig.json
+F:\csharp\Cases\Case02\Case02\bin\Debug\net6.0\Case02.dll
+F:\csharp\Cases\Case02\Case02\bin\Debug\net6.0\Case02.pdb
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.csproj.AssemblyReference.cache
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.AssemblyInfoInputs.cache
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.AssemblyInfo.cs
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.csproj.CoreCompileInputs.cache
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.dll
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\refint\Case02.dll
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.pdb
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\Case02.genruntimeconfig.cache
+F:\csharp\Cases\Case02\Case02\obj\Debug\net6.0\ref\Case02.dll
